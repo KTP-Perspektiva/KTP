@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTP", "KTP\KTP.csproj", "{D39FF049-AFA7-494C-8E3B-364414F4CD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39FF049-AFA7-494C-8E3B-364414F4CD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39FF049-AFA7-494C-8E3B-364414F4CD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39FF049-AFA7-494C-8E3B-364414F4CD9B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D39FF049-AFA7-494C-8E3B-364414F4CD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39FF049-AFA7-494C-8E3B-364414F4CD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39FF049-AFA7-494C-8E3B-364414F4CD9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EDB4BC3-01BE-4FCE-B890-E7060698D331}
+	EndGlobalSection
+EndGlobal
